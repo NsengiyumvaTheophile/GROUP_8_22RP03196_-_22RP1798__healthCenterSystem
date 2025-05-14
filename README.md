@@ -1,5 +1,7 @@
-Developers: Jean de Dieu Dudengimana       22RP01798
-            Theophile Nsengiyumva          22RP03196
+Developers:   Theophile Nsengiyumva          22RP03196
+
+              Jean de Dieu Dudengimana       22RP01798
+            
 
 
 Health Appointment Booking System
