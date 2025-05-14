@@ -3,7 +3,6 @@ require_once 'config/Database.php';
 require_once 'models/Patient.php';
 require_once 'models/Appointment.php';
 require_once 'services/SMSService.php';
-
 // Get USSD parameters
 $sessionId = $_POST['sessionId'];
 $serviceCode = $_POST['serviceCode'];
